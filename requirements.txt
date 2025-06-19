@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain
+chromadb
+pyttsx3
+whisper
+pydub
